@@ -1,0 +1,25 @@
+{
+  "name": "Number Puzzle Pro",
+  "short_name": "Puzzle Pro",
+  "description": "Premium sliding puzzle game with number and photo modes.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0f0a07",
+  "theme_color": "#d9a441",
+  "icons": [
+    {
+      "src": "assets/icons/logo.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "assets/icons/logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
